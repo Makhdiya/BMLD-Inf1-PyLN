@@ -1,2 +1,9 @@
-# BMLD-Inf1-PyLN
-Python Leistungsnachweis - Github Repository
+# Titel von der Arbeit
+Python Leistungsnachweis
+## Team
+Am Projekt arbeiten
+- Ratshana Kumararasa (kumarrat@students.zhaw.ch)
+- Giuliana Stifani (stifagiu@students.zhaw.ch)
+- Makhdiyabonu Imamjonova (imamjmak@students.zhaw.ch)
+## Projektidee
+Fragestellung bzw. Beschrieb
