@@ -1,4 +1,4 @@
-# Kindes Mortalitätsrate
+# Kindessterblichkeitssrate
 Python Leistungsnachweis
 ## Team
 Am Projekt arbeiten
@@ -6,4 +6,4 @@ Am Projekt arbeiten
 - Giuliana Stifani (stifagiu@students.zhaw.ch)
 - Makhdiyabonu Imamjonova (imamjmak@students.zhaw.ch)
 ## Projektidee
-Wie sieht die Kindes Mortalitätsrate in den letzten 10 Jahren aus und in welchen Ländern ist sie gestiegen resp. gesunken.
+Wie sieht die Kindessterblichkeitsrate in den letzten 10 Jahren aus und in welchen Ländern ist sie gestiegen resp. gesunken.
